@@ -88,8 +88,8 @@ class Delimiter {
    */
   static get toolbox() {
     return {
-      icon: `<svg width="19" height="4" viewBox="0 0 19 4" xmlns="http://www.w3.org/2000/svg"><path d="M1.25 0H7a1.25 1.25 0 1 1 0 2.5H1.25a1.25 1.25 0 1 1 0-2.5zM11 0h5.75a1.25 1.25 0 0 1 0 2.5H11A1.25 1.25 0 0 1 11 0z"/></svg>`,
-      title: 'Delimiter'
+      icon: `<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M6.87198 7.69894H17.872V6.69894H6.87198V7.69894ZM7.87198 11.6989H6.87198V12.6989H7.87198V11.6989ZM8.87198 11.6989H9.87198V12.6989H8.87198V11.6989ZM11.872 11.6989H10.872V12.6989H11.872V11.6989ZM12.872 11.6989H13.872V12.6989H12.872V11.6989ZM15.872 11.6989H14.872V12.6989H15.872V11.6989ZM17.872 11.6989H16.872V12.6989H17.872V11.6989ZM17.872 17.6989H6.87198V16.6989H17.872V17.6989Z" fill="#212132"/></svg>`,
+      title: 'Devider'
     };
   }
 }
